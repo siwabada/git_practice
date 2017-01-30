@@ -23,6 +23,7 @@ git remote add origin https://github.com/username/myproject.git // 로컬과 원
 git remote -v // 연결상태를 확인한다.
 git push origin master // 깃허브로 푸시한다.
 git pull origin master // 깃허브에서 풀한다. 
+git stash // origin 파일과 master 파일 충돌시 명령 (error: Your local changes to the following files would be overwritten by merge)
 ```
  
 
