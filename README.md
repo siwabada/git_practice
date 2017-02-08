@@ -28,4 +28,4 @@ git stash // origin 파일과 master 파일 충돌시 명령 (error: Your local 
 ```
  
 ##cheat sheet
-<img src="cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf">
+<img src="cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf" width="4200" height="4200">
