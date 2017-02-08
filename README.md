@@ -27,10 +27,5 @@ git pull origin master // 깃허브에서 풀한다.
 git stash // origin 파일과 master 파일 충돌시 명령 (error: Your local changes to the following files would be overwritten by merge)
 ```
  
-```php
-
-<?php
-	echo 'hello world';
-?>
-
-```
+##cheat sheet
+![git cheat sheet](cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf)
