@@ -28,4 +28,4 @@ git pull origin master --allow-unrelated-histories // fatal: refusing to merge u
 git stash // origin 파일과 master 파일 충돌시 명령 (error: Your local changes to the following files would be overwritten by merge)
 ```
  
-##[cheat sheet](cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf)
+## [cheat sheet](cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf)
